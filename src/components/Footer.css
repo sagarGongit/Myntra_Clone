@@ -1,0 +1,33 @@
+.footer {
+    margin-top: 10px;
+    background-color: rgb(244, 241, 241);
+    padding: 10px;
+    font-size: small;
+  }
+  .experience-myntra {
+  }
+  .experience-myntra img {
+    width: 130px;
+    height: 40px;
+  }
+  .experience-myntra div {
+    display: flex;
+    gap: 10px;
+  }
+  .trust-policy {
+  }
+  .trust-policy div {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    width: 25vw;
+    margin-bottom: 15px;
+  }
+  .trust-policy img {
+    width: 40px;
+    height: 40px;
+  }
+  .layer1 {
+    display: flex;
+    justify-content: space-around;
+  }

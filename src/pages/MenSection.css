@@ -1,0 +1,74 @@
+.men {
+  margin-top: 5%;
+}
+.men div:nth-child(1) {
+  padding: 10px 40px 0px 40px;
+}
+.men div:nth-child(2) {
+  padding: 0 40px 0 40px;
+}
+.men div:nth-child(4) {
+  padding: 0 40px 0 40px;
+}
+.men-slider {
+  margin-top: 10px;
+  display: flex;
+  overflow: scroll;
+  width: 100%;
+}
+.men-slider::-webkit-scrollbar {
+  display: none;
+}
+.men-brands {
+  max-width: 105%;
+  height: 80vh;
+  margin-left: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin: auto;
+}
+.arrow {
+  position: relative;
+  width: 3rem;
+  height: 3rem;
+  color: brown;
+  cursor: pointer;
+}
+.arrow-right {
+  right: 1rem;
+  bottom: 57%;
+  color: pink;
+  position: absolute;
+}
+.mens-special-category div:nth-child(1) img {
+  width: 16vw;
+  height: 52vh;
+  cursor: pointer;
+}
+.mens-special-category div:nth-child(2) img {
+  width: 14vw;
+  height: 50vh;
+  cursor: pointer;
+}
+.mens-special-category div:nth-child(3) img {
+  width: 14vw;
+  height: 50vh;
+  cursor: pointer;
+}
+.mens-special-category div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+.mens-special-category{
+  padding: 10px;
+}
+.knokout-offers {
+  padding: 0 80px 0 80px;
+  margin-bottom: 50px;
+}
+.knokout-offers img{
+  width: 100%;
+}

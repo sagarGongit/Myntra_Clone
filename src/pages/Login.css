@@ -1,0 +1,22 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 130vh;
+  background-color: rgb(248, 215, 223);
+  margin-top: 5%;
+}
+form {
+  padding: 28px;
+}
+form input {
+  margin-bottom: 30px;
+}
+.form {
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  width: 30vw;
+  height: 90vh;
+  background-color: white;
+}
